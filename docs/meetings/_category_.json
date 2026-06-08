@@ -1,0 +1,9 @@
+{
+  "label": "Meetings",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "title": "Meetings",
+    "description": "Working-session notes and synthesised outcomes from Lightweb planning meetings."
+  }
+}
